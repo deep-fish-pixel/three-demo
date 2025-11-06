@@ -1,4 +1,4 @@
-# 使用threejs实现的一些作品
+# 使用threejs实现的一些作品（点击标题可下载视频）
 
 ### [七夕](./examples/qixi.mp4)
 ![qixi.jpeg](assets/qixi.png)
