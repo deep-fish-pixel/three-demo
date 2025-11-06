@@ -1,10 +1,10 @@
-# 使用threejs实现的一些作品（点击标题可下载视频）
+# 使用threejs实现的场景
 
-### [七夕](./examples/qixi.mp4)
-![qixi.jpeg](assets/qixi.png)
-### [居家](./examples/home.mp4)
-![home.jpeg](assets/home.png)
-### [纯色](./examples/pure.mp4)
-![pure.jpeg](assets/pure.jpeg)
-### [教室](./examples/classroom.mp4)
-![classroom.png](assets/classroom.png)
+### 七夕
+![qixi.jpeg](examples/qixi.gif)
+### 居家
+![home.jpeg](examples/home.gif)
+### 纯色
+![pure.jpeg](examples/pure.gif)
+### 教室
+![classroom.png](examples/classroom.gif)
